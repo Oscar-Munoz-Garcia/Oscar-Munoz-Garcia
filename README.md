@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-I am a **Data Science undergraduate student** at the **Universitat Politècnica de València (UPV)**. I am deeply passionate about Artificial Intelligence, Machine Learning, and extracting actionable value from complex datasets. 
+I am a **Data Scientist graduated** at the **Universitat Politècnica de València (UPV)**. I am deeply passionate about Artificial Intelligence, Machine Learning, and extracting actionable value from complex datasets. 
 
 Currently, I am expanding my skills through self-directed projects and **actively seeking an Internship / Working Student position** in Data Science or Machine Learning.
 
